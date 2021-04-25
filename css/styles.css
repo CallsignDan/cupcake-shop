@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+.flashy {
+  color:red;
+  font-style: italic;
+}
+
+.best {
+  color: yellow;
+  font-style: bold;
+}
+
+body {
+  background-color: rgba(47, 47, 168, 0.664);
+}
+
+h3 {
+  color: blue;
+}
