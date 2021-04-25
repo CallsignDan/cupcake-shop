@@ -19,3 +19,11 @@ body {
 h3 {
   color: blue;
 }
+
+p {
+  width: 50%;
+}
+
+img {
+  width: 400px;
+}
